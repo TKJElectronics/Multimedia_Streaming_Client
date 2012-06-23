@@ -1,0 +1,12 @@
+C:\TKJ Electronics\Projects\B5-Multimedia_Streaming\Multimedia_Server2\Multimedia_Server2\bin\Debug\Multimedia_Server2.exe
+C:\TKJ Electronics\Projects\B5-Multimedia_Streaming\Multimedia_Server2\Multimedia_Server2\bin\Debug\Multimedia_Server2.pdb
+C:\TKJ Electronics\Projects\B5-Multimedia_Streaming\Multimedia_Server2\Multimedia_Server2\bin\Debug\Multimedia_Server2.xml
+C:\TKJ Electronics\Projects\B5-Multimedia_Streaming\Multimedia_Server2\Multimedia_Server2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\TKJ Electronics\Projects\B5-Multimedia_Streaming\Multimedia_Server2\Multimedia_Server2\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\TKJ Electronics\Projects\B5-Multimedia_Streaming\Multimedia_Server2\Multimedia_Server2\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\TKJ Electronics\Projects\B5-Multimedia_Streaming\Multimedia_Server2\Multimedia_Server2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\TKJ Electronics\Projects\B5-Multimedia_Streaming\Multimedia_Server2\Multimedia_Server2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\TKJ Electronics\Projects\B5-Multimedia_Streaming\Multimedia_Server2\Multimedia_Server2\obj\x86\Debug\Multimedia_Server2.exe
+C:\TKJ Electronics\Projects\B5-Multimedia_Streaming\Multimedia_Server2\Multimedia_Server2\obj\x86\Debug\Multimedia_Server2.xml
+C:\TKJ Electronics\Projects\B5-Multimedia_Streaming\Multimedia_Server2\Multimedia_Server2\obj\x86\Debug\Multimedia_Server2.pdb
+C:\TKJ Electronics\Projects\B5-Multimedia_Streaming\Multimedia_Server2\Multimedia_Server2\obj\x86\Debug\WindowsApplication1.Form2.resources
